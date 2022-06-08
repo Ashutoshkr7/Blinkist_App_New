@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Beyond Entrepreneurship",
+    "url": "./assets/Image/Book_Image/beyondEntrepreneurship.png",
+    "timeRead": "13-minute read",
+    "writerName": "Jim Collins & Bill Lazier",
+    "synopics": "Beyond Entrepreneurship 2.0 (2020) updates Jim Collins and Bill Lazier’s essential 1992 business handbook, Beyond Entrepreneurship for the entrepreneurs, visionaries, and innovators of today. This new edition combines the timeless business advice and strategy of the original text, supplemented with cutting-edge insights and case studies pertinent to today’s business world.",
+    "for": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+    "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+    "progress": "100",
+    "aim": "Turning Your Business into an Enduring Great Company"
+  },
+
+  {
+    "id": 9,
+    "name": "Bring Your Human to Work",
+    "url": "./assets/Image/Book_Image/bringYourHumanToWork.png",
+    "timeRead": "13-minute read",
+    "writerName": "Erica Keswin",
+    "synopics": "Beyond Entrepreneurship 2.0 (2020) updates Jim Collins and Bill Lazier’s essential 1992 business handbook, Beyond Entrepreneurship for the entrepreneurs, visionaries, and innovators of today. This new edition combines the timeless business advice and strategy of the original text, supplemented with cutting-edge insights and case studies pertinent to today’s business world.",
+    "for": "One of the key learnings for entrepreneurs is the understanding of the reality about success and how extraordinary opportunities, instead of talent, pave the way to excellence.",
+    "about_author": "From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, Beyond Entrepreneurship, that includes all-new findings and world-changing insights.",
+    "progress": "100",
+    "aim": "Turning Your Business into an Enduring Great Company"
+  }
+]
